@@ -146,7 +146,7 @@ You can build a client against the swagger sample [petstore](http://petstore.swa
 ./bin/java-petstore.sh
 ```
 
-(On Windows, run `./bin/windows/java-petstore.bat` instead)
+(On Windows, run `call bin/windows/java-petstore.bat` instead)
 
 This will run the generator with this command:
 
